@@ -1,1 +1,1 @@
-# El-m-ximo-com-n-divisor-MCD-
+# El-maximo-comun-divisor-MCD-
